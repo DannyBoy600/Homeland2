@@ -1,0 +1,211 @@
+body
+{
+    BACKGROUND-COLOR: #ffffff;
+}
+
+body.menu
+{
+		margin-right: 0px; 
+		margin-bottom: 0px; 
+		margin-left: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    COLOR: darkred;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    background:url(images/bg.gif);
+    background-repeat:repeat-x;
+	  background-position: left top;
+}
+
+body.submenu
+{
+		margin-right: 0px; 
+		margin-bottom: 0px; 
+		margin-left: 33px;
+		margin-top: 0px; 
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    background:url(images/bg.gif);
+    background-repeat:repeat-x;
+	  background-position: left top;
+}
+
+body.page
+{
+	  margin-left: 5px;
+	  margin-top: 0px;
+		margin-right: 5px; 
+		margin-bottom: 5px; 
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    COLOR: #202020;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+body.navbar
+{
+	  margin-left: 5px;
+	  margin-top: 0px;
+		margin-right: 5px; 
+		margin-bottom: 0px; 
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #202020;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+body.footer
+{
+	  margin-left: 0px;
+	  margin-top: 0px;
+		margin-right: 0px; 
+		margin-bottom: 0px; 
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+P
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    COLOR: #202020;
+    FONT-FAMILY: Verdana, Arial, Helvetica:
+    LINE-HEIGHT: 15pt;
+}
+.bigBold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    COLOR: #202020;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    LINE-HEIGHT: 15pt;
+}
+.normal
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    COLOR: #202020;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    LINE-HEIGHT: 15pt;
+}
+.normalBold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: #202020;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    LINE-HEIGHT: 15pt;
+}
+.normalItalic
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    COLOR: #202020;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Verdana, Arial, Helvetica:
+    LINE-HEIGHT: 15pt;
+}
+
+.mini
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #202020;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    LINE-HEIGHT: 13pt;
+}
+
+textarea { 
+  font-size: 12px; 
+  text-align: left; 
+  color: #202020;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.inputText { 
+  font-size: 12px; 
+  text-align: left; 
+  color: #202020;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.but
+{
+		FONT-WEIGHT:normal;
+    FONT-SIZE: 12px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.header_small
+{
+	  text-decoration:none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: darkred;
+    FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.header
+{
+	  text-decoration:none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 16px;
+    COLOR: darkred;
+    FONT-FAMILY: Verdana, Arial, Helvetica
+}
+
+.listhead
+{
+		outline: none;
+	  text-decoration:none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: darkred;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.header_menu
+{
+ 	  outline: none;
+	  text-decoration:none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: WHITE;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.header_menu_sel
+{
+		outline: none;
+	  text-decoration:none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR :#88C43E;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.submenu_item
+{
+		outline: none;
+	  text-decoration:none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.submenu_item_sel
+{
+		outline: none;
+	  text-decoration:none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    COLOR: darkgreen;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.oddRow {background-color:#FCFDF6}
+.evenRow {background-color:#F1F4D2}
