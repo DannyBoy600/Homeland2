@@ -1,0 +1,206 @@
+HTML,BODY
+{
+	margin:0;
+  padding:0;
+}
+
+/* for tables with inner column borders */
+TABLE.collapse {border-collapse:collapse;} 
+
+.menu
+{
+		margin-left: 10px;
+	  margin-top: 0px;
+		margin-right: 0px; 
+		margin-bottom: 0px; 
+    BACKGROUND-COLOR: darkgrey;
+    COLOR: white;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.navbar
+{
+		margin-left: 10px;
+	  margin-top: 3px;
+		margin-right: 0px; 
+		margin-bottom: 0px; 
+		BACKGROUND-COLOR: #ECF0C2;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.left
+{
+		margin-left: 5px;
+	  margin-top: 5px;
+		margin-right: 0px; 
+		margin-bottom: 0px; 
+		BACKGROUND-COLOR: #ECF0C2;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.center
+{
+		margin-left: 10px;
+	  margin-top: 10px;
+		margin-right: 0px; 
+		margin-bottom: 0px; 
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.head
+{
+    FONT-SIZE: 15px;
+    COLOR: white;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.login
+{
+    FONT-SIZE: 12px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-WEIGHT: normal;
+}
+.error
+{
+    FONT-SIZE: 12px;
+    COLOR: red;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-WEIGHT: normal;
+}
+
+.header_small
+{
+    FONT-SIZE: 12px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-WEIGHT: bold;
+}
+
+.big
+{
+    FONT-SIZE: 12px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.bigBold
+{
+		FONT-WEIGHT:bold;
+    FONT-SIZE: 12px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.normal
+{
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.normalBold
+{
+		FONT-WEIGHT:bold;
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.alert
+{
+    FONT-SIZE: 25px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.but
+{
+		FONT-WEIGHT:bold;
+    FONT-SIZE: 11px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.but_menu    
+{
+	font-weight: bold;
+	color: white;
+	background-color:darkgrey;
+}
+
+.header_menu
+{
+ 	  outline: none;
+	  text-decoration:none;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.sub_menu
+{
+		outline: none;
+	  text-decoration:none;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR:darkblue;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.pages_header
+{
+		margin-left: 10px;
+	  margin-top: 5px;
+		margin-right: 0px; 
+		margin-bottom: 0px; 
+		BACKGROUND-COLOR: #CCCCCC;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.pages_header_sub
+{
+		margin-left: 10px;
+	  margin-top: 4px;
+		margin-right: 0px; 
+		margin-bottom: 0px; 
+		BACKGROUND-COLOR: #CCCCCC;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+
+.listhead
+{
+		outline: none;
+	  text-decoration:none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: darkred;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.listhead_sel
+{
+		outline: none;
+	  text-decoration:none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    COLOR: #88C43E;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+}
+.listbread
+{
+	  text-decoration:none;
+	  line-height: 10px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    LINE-HEIGHT: 12pt;
+}
+.oddRow {background-color:#FAFAFA}
+.evenRow {background-color:#EAEAEA}
+
+textarea { 
+  font-size: 10px; 
+  text-align: left; 
+  color: black; 
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.inputText { 
+  font-size: 10px; 
+  text-align: left; 
+  color: black; 
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}

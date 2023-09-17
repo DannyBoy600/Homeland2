@@ -1,0 +1,71 @@
+BODY
+{
+}
+A.lank:link
+{
+    FONT-SIZE: 10px;
+    COLOR: #326359;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: underline
+}
+A.lank:visited
+{
+    FONT-SIZE: 10px;
+    COLOR: #326359;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: underline
+}
+A.lank:active
+{
+    FONT-SIZE: 10px;
+    COLOR: #326359;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+.head
+{
+    FONT-SIZE: 20px;
+    FONT-STYLE:Italic;
+    COLOR: darkgreen;
+    FONT-FAMILY: Verdana;
+}
+.head2
+{
+    FONT-SIZE: 14px;
+    FONT-STYLE:Italic;
+    COLOR: #982329;
+    FONT-FAMILY: Verdana;
+}
+.login
+{
+    FONT-SIZE: 12px;
+    COLOR: darkgreen;
+    FONT-FAMILY: Verdana;
+    FONT-WEIGHT: bold;
+}
+.error
+{
+    FONT-SIZE: 12px;
+    COLOR: red;
+    FONT-FAMILY: Verdana;
+    FONT-WEIGHT: normal;
+}
+.normal
+{
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-FAMILY: Verdana
+}
+.normalBold
+{
+		FONT-WEIGHT:bold;
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-FAMILY: Verdana
+}
+.alert
+{
+    FONT-SIZE: 25px;
+    COLOR: black;
+    FONT-FAMILY: Verdana
+}
